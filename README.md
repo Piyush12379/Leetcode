@@ -40,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Piyush12379/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+## Array
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Piyush12379/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Piyush12379/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
