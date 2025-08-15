@@ -54,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Piyush12379/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Piyush12379/Leetcode/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Piyush12379/Leetcode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Piyush12379/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
