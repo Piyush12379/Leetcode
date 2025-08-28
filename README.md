@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Piyush12379/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Piyush12379/Leetcode/tree/master/0047-permutations-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Piyush12379/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Piyush12379/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Piyush12379/Leetcode/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Piyush12379/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/Piyush12379/Leetcode/tree/master/1448-maximum-69-number) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Piyush12379/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
