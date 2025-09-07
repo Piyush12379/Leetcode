@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Piyush12379/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Piyush12379/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Piyush12379/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Piyush12379/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Piyush12379/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Piyush12379/Leetcode/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/Piyush12379/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Piyush12379/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Piyush12379/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush12379/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Piyush12379/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Piyush12379/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Piyush12379/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Piyush12379/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Piyush12379/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/Piyush12379/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Piyush12379/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Piyush12379/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush12379/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -67,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Piyush12379/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Piyush12379/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
