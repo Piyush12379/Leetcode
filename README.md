@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Piyush12379/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Piyush12379/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Piyush12379/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush12379/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1137-height-checker](https://github.com/Piyush12379/Leetcode/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush12379/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2887-sort-vowels-in-a-string](https://github.com/Piyush12379/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
