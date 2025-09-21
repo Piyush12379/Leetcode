@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Piyush12379/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Piyush12379/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Piyush12379/Leetcode/tree/master/1448-maximum-69-number) |
+| [1585-the-kth-factor-of-n](https://github.com/Piyush12379/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Piyush12379/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/Piyush12379/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Piyush12379/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Piyush12379/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2491-smallest-even-multiple](https://github.com/Piyush12379/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Heap (Priority Queue)
 |  |
