@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Piyush12379/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Piyush12379/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Piyush12379/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/Piyush12379/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Piyush12379/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush12379/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Piyush12379/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/Piyush12379/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Simulation
 |  |
 | ------- |
