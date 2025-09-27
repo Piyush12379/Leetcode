@@ -2,37 +2,25 @@ class Solution {
 public:
     bool check(vector<int>& nums) {
         int n=nums.size();
-        int mini=INT_MAX;
-   
-        for(int i=0;i<n;i++){
-          if(mini>=nums[i]){
-            mini=nums[i];
-            
-          }
+        int idx=0;
+        for(int i=n-1;i>0;i--){
+             if(nums[i]<nums[i-1]){
+                   idx=i;
+             }
         }
-
-        for(int idx=0;idx<n;idx++){
-       if(nums[idx]==mini){
-
         int pos=n-idx;
         vector<int>v2(n,-1);
         for(int i=0;i<n;i++){
-          v2[(i+pos) % n]=nums[i]; 
+            v2[(pos+i)%n]=nums[i];
         }
-         bool sorted=true;
-        for(int i=1;i<v2.size();i++){
-            if(v2[i]<v2[i-1]) {
-                sorted= false;
-                break;
-            };
+          
+        for(int i=n-1;i>0;i--){
+             if(v2[i]<v2[i-1]){
+                   return false;
+             }
         }
-        if(sorted) return true;
+        return true;
 
-        }
-        }
 
-        return false;
-        
-        
     }
 };
