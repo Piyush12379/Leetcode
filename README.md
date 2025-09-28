@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Piyush12379/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Piyush12379/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Piyush12379/Leetcode/tree/master/0047-permutations-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush12379/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Piyush12379/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Piyush12379/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Piyush12379/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Piyush12379/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush12379/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
