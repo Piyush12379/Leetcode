@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
 public:
     int diagonalSum(vector<vector<int>>& mat) {
         int n=mat.size();
