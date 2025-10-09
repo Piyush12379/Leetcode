@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Piyush12379/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Piyush12379/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Piyush12379/Leetcode/tree/master/0047-permutations-ii) |
+| [0066-plus-one](https://github.com/Piyush12379/Leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Piyush12379/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush12379/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Piyush12379/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Piyush12379/Leetcode/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Piyush12379/Leetcode/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/Piyush12379/Leetcode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Piyush12379/Leetcode/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Piyush12379/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
