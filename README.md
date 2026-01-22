@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Piyush12379/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush12379/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Piyush12379/Leetcode/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Piyush12379/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Piyush12379/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Piyush12379/Leetcode/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush12379/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Piyush12379/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Piyush12379/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Piyush12379/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/Piyush12379/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Piyush12379/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Array
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Piyush12379/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Piyush12379/Leetcode/tree/master/0682-baseball-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Piyush12379/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/Piyush12379/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Piyush12379/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Piyush12379/Leetcode/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Piyush12379/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
