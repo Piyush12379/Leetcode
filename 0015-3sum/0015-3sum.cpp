@@ -15,10 +15,10 @@ public:
                           j++;
                           k--;
                      
-                     while(j<n && nums[j]==nums[j-1]){
+                     while(j<k && nums[j]==nums[j-1]){
                         j++;
                      }
-                     while(k>=0 && nums[k]==nums[k+1]){
+                     while(j<k && nums[k]==nums[k+1]){
                         k--;
                      }
                   }
