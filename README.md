@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Piyush12379/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Piyush12379/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Piyush12379/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Piyush12379/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Piyush12379/Leetcode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Piyush12379/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/Piyush12379/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0904-fruit-into-baskets](https://github.com/Piyush12379/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Piyush12379/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Piyush12379/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Piyush12379/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -246,5 +248,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Piyush12379/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Piyush12379/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Piyush12379/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Piyush12379/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Piyush12379/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
