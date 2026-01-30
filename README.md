@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Piyush12379/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Piyush12379/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Piyush12379/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Piyush12379/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Piyush12379/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Binary Search
 |  |
@@ -212,12 +213,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush12379/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Piyush12379/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Piyush12379/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Piyush12379/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Piyush12379/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Piyush12379/Leetcode/tree/master/0682-baseball-game) |
 | [1806-count-of-matches-in-tournament](https://github.com/Piyush12379/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Piyush12379/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
