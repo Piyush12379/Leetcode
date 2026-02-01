@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Piyush12379/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Piyush12379/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Piyush12379/Leetcode/tree/master/0414-third-maximum-number) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Piyush12379/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Piyush12379/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Piyush12379/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Piyush12379/Leetcode/tree/master/1137-height-checker) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Piyush12379/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Piyush12379/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Piyush12379/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Piyush12379/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/Piyush12379/Leetcode/tree/master/0682-baseball-game) |
 ## Tree
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Piyush12379/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Piyush12379/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Piyush12379/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Piyush12379/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Piyush12379/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Piyush12379/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/Piyush12379/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Piyush12379/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Piyush12379/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Piyush12379/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Piyush12379/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/Piyush12379/Leetcode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Piyush12379/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Piyush12379/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Piyush12379/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1448-maximum-69-number](https://github.com/Piyush12379/Leetcode/tree/master/1448-maximum-69-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Piyush12379/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
@@ -258,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Piyush12379/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Piyush12379/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
