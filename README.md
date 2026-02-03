@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Piyush12379/Leetcode/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Piyush12379/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Piyush12379/Leetcode/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
@@ -273,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Piyush12379/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Piyush12379/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
