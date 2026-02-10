@@ -11,15 +11,16 @@ public:
     }
 
     bool isHappy(int n) {
-        int slow=n;
+        unordered_map<int,int>mp;
+        // int slow=n;
         int fast=n;
         while(fast!=1){
-            slow=fun(slow);
+            // slow=fun(slow);
+            // fast=fun(fast);
+            mp[fast]++;
+            if(mp[fast]>1) return false;
             fast=fun(fast);
-            fast=fun(fast);
-           if(slow==fast && slow!=1){
-            return false;
-           }
+
         }
         return true;
     }
