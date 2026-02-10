@@ -30,7 +30,7 @@ public:
         ListNode* first=head;
         ListNode* second=prev;
 
-        while(first!=NULL && second!=NULL){
+        while(second!=NULL){
             if(first->val!=second->val) return false;
             first=first->next;
           second=second->next;
@@ -39,4 +39,4 @@ public:
 
         
     }
-};
+}; 
