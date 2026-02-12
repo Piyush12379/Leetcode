@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Piyush12379/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush12379/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Piyush12379/Leetcode/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Piyush12379/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Piyush12379/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Piyush12379/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Piyush12379/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush12379/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Piyush12379/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Piyush12379/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
