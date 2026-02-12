@@ -6,9 +6,11 @@ public:
         int bestprod=nums[0];
   
         for(int i=1;i<nums.size();i++){     
-            if(nums[i]<0) swap(maxprod,minprod);  
-           maxprod=max(maxprod*nums[i],nums[i]);
-           minprod=min(minprod*nums[i],nums[i]);
+            int v1= nums[i];
+            int v2=nums[i]* maxprod;
+            int v3=nums[i]*minprod;
+           maxprod=max({v1,v2,v3});
+           minprod=min({v1,v2,v3});
            bestprod=max(bestprod,maxprod);
         }
 
