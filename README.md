@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush12379/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Piyush12379/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Piyush12379/Leetcode/tree/master/1137-height-checker) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Piyush12379/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Piyush12379/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush12379/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Piyush12379/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush12379/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Piyush12379/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Piyush12379/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Piyush12379/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Queue
 |  |
 | ------- |
