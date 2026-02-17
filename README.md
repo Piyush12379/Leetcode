@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Piyush12379/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush12379/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Piyush12379/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Piyush12379/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Piyush12379/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush12379/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Piyush12379/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Piyush12379/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Two Pointers
 |  |
 | ------- |
