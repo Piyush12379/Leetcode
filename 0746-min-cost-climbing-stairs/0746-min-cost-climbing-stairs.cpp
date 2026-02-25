@@ -2,7 +2,7 @@ class Solution {
 public:
     int minCostClimbingStairs(vector<int>& cost) {
        if(cost.size()==0) return 0;
-        if(cost.size()==1) return cost[0];
+    
         int n=cost.size();
         vector<int>dp(n+1,-1);
         dp[n]=0;
