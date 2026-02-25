@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Piyush12379/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Piyush12379/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Piyush12379/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Piyush12379/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Piyush12379/Leetcode/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Piyush12379/Leetcode/tree/master/0342-power-of-four) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Piyush12379/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush12379/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Piyush12379/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Piyush12379/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush12379/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Piyush12379/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
