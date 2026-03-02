@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Piyush12379/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Piyush12379/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Piyush12379/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Piyush12379/Leetcode/tree/master/0070-climbing-stairs) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Piyush12379/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Piyush12379/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Piyush12379/Leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Piyush12379/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Piyush12379/Leetcode/tree/master/0234-palindrome-linked-list) |
