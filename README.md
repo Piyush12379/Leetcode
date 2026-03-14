@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Piyush12379/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Piyush12379/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Piyush12379/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Piyush12379/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Piyush12379/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Piyush12379/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Piyush12379/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Piyush12379/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3637-trionic-array-i](https://github.com/Piyush12379/Leetcode/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
